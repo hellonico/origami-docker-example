@@ -5,5 +5,5 @@
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
   :repositories [["vendredi" "https://repository.hellonico.info/repository/hellonico/"]]
   :dependencies [[org.clojure/clojure "1.9.0"]
-                 [origami "4.0.0-beta7"]]
+                 [origami "4.2.0-1"]]
   :main indexation.image-processing)
